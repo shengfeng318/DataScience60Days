@@ -1,1 +1,1 @@
-# DataScience6Days
+# DataScience60Days
